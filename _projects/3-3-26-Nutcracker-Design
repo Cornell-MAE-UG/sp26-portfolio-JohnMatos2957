@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: project
 title: Nutcracker Design
@@ -13,3 +14,4 @@ Constraints and input parameters include the average load needed to crack a maca
 I started by calculating the lengths that the handle would need to be by using an arbitrary length of the macadamia nut from the hinge of 30 mm. By setting all moments about the hinge equal to zero, the length was equated to be ~188 mm.
 
 Based on these dimensions, I stated that the nutcracker would be a bit long for daily use, as it is in total over 8 inches long. A different system with more mechanical advantage would be optimal for daily use.
+
