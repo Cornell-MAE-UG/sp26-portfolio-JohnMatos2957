@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: project
 title: Nutcracker Design
