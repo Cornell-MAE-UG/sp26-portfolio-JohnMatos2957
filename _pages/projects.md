@@ -1,7 +1,7 @@
 ---
 layout: default
 title: John Matos - Portfolio
-permalink: /sp26-portfolio-JohnMatos2957/projects/
+permalink: /projects/
 ---
 
 <div class="gallery-container">
