@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+---
+layout: project
+title: Nutcracker Design
+description: Macadamia Nut Cracker Problem
+technologies: [None]
+image: /assets/images/MacadamiaCracker.jpg
+---
+
+The objective of this problem was to create a nutcracker with sufficient dimensions in order to crack a macadamia nut, discuss how usable the designed nutcracker was, and to make a new nutcracker design utilizing a linear actuator.
+
+Constraints and input parameters include the average load needed to crack a macadamia nut (~2180 N), the average size of a macadamia nut (20 mm diameter), and average grip strength of an adult (~300 N).
+
+I started by calculating the lengths that the handle would need to be by using an arbitrary length of the macadamia nut from the hinge of 30 mm. By setting all moments about the hinge equal to zero, the length was equated to be ~188 mm.
+
+Based on these dimensions, I stated that the nutcracker would be a bit long for daily use, as it is in total over 8 inches long. A different system with more mechanical advantage would be optimal for daily use.
+
