@@ -1,7 +1,7 @@
 ---
 layout: default
 title: John Matos - Portfolio
-permalink: https://cornell-mae-ug.github.io/portfolio-sp26-sp26-portfolio-portolios-1/sp26-portfolio-JohnMatos2957/projects/
+permalink: /sp26-portfolio-JohnMatos2957/projects/
 ---
 
 <div class="gallery-container">
