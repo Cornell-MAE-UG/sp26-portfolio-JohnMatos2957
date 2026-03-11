@@ -3,7 +3,7 @@ layout: project
 title: Nutcracker Design
 description: Macadamia Nut Cracker Problem
 technologies: [None]
-images: /assets/images/MacadamiaCracker.jpg, /assets/images/MacadamiaActuatorCracker.jpg
+image: /assets/images/MacadamiaCracker.jpg
 ---
 
 The objective of this problem was to create a nutcracker with sufficient dimensions in order to crack a macadamia nut, discuss how usable the designed nutcracker was, and to make a new nutcracker design utilizing a linear actuator.
@@ -14,7 +14,7 @@ I started by calculating the lengths that the handle would need to be by using a
 
 Based on these dimensions, I stated that the nutcracker would be a bit long for daily use, as it is in total over 8 inches long. The arms of the nutcracker would be around 2 inches apart based on my design, so it is possible for someone to use this with just one hand, but two might be necessary for people with a weaker grip. A different system with more mechanical advantage would be optimal for daily use.
 
-![Macadamia Actuator Cracker](/assets/images/MacadamiaActuatorCracker.jpg)
+![Macadamia Actuator Cracker]({{ "/assets/images/MacadamiaActuatorCracker.jpg" | relative_url }}){: .inline-image-l}
 
 The above Macadamia nut cracker was made with an IP65 Mini Linear Actuator, producing a force of approximately 751 Newtons with a stroke length of 1 inch, taking into account all the previous parameters such as size and strength needed to break the nut.
 
