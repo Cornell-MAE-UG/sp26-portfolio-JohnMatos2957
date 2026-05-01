@@ -22,10 +22,8 @@ After applying these boundary conditions, i found the point were maximum delfect
 
 Now, I had to design a new cross section for the beam so it wouldn't bend over 2% of its length. 2% of 91.78mm is 1.8356mm, so that was the maximum deflection that could happen at point C. Using the deflection equation found earlier for section BC, the deflection at point C under original conditions was 33.08 mm, which was much to high. The original I value was 12.566 mm^4, while the necessary I value is 226.469 mm^4.
 
+![I-Beam]({{ "/assets/images/I-Beam.jpeg" | relative_url }}){: .inline-image-l}
+
 I decided to design an I-beam to maximize the I value while minimizing area/mass to make it more efficient. I made the flange length "a," the flange and web widths "w," and the web length "a-2w" and calculated the area to be 2aw+w(a-2w). Using algebra, I calculated w for values of "a"=7, 8, 10, and 12. I found that "a" values that were greater than 8 had "w" values that were much less than 1 mm, which would technically make it more economical, but make it more prone to breaking or permanently bending since the metal would be so thin.
 
 I settled on a=8 mm and w=0.956 mm as my final length and width.
-
-![I-Beam]({{ "/assets/images/I-Beam.jpeg" | relative_url }}){: .inline-image-l}
-
-Above is the final beam design.
