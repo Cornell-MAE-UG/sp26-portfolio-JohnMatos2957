@@ -27,3 +27,5 @@ I decided to design an I-beam to maximize the I value while minimizing area/mass
 I settled on a=8 mm and w=0.956 mm as my final length and width.
 
 ![I-Beam]({{ "/assets/images/I-Beam.jpeg" | relative_url }}){: .inline-image-l}
+
+Above is the final beam design.
